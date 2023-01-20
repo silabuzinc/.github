@@ -1,4 +1,4 @@
-# Hola, ¿qué tal? 👋 Bienvenido al repositorio de **Silabuz inc**.
+# Hola, ¿qué tal? 👋 Bienvenido al repositorio de **Silabuz Inc**.
 <!-- ## Hi there 👋, welcome Silabuz repository -->
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
@@ -9,17 +9,21 @@
 ![This is an image](https://uploads-ssl.webflow.com/6320941e9612f79b0e2f61b1/6323907bc8e11a0e29d81559_logoprueba.svg)
 
 
-## Bootcamp Desarrollador Backend
+# Bootcamp Desarrollador Backend
 
-* ### Unidad 1
-* ### Unidad 2
-* ### Unidad 3
-* ### Unidad 4
-* ### Unidad 6
-* ### Unidad 6
-* ### Unidad 7
-* ### Unidad 8
-* ### Unidad 9
+
+* ## Unidad 1
+
+* ## Unidad 2
+      - Tema 1
+* ## Unidad 3
+* ## Unidad 4
+* ## Unidad 6
+* ## Unidad 6 AWS | Pasarelas de pago
+  Template React Mercado pago -> [React-mercadopago](https://github.com/silabuzinc/react-mercadopago-example)
+* ## Unidad 7 JavaScript | NodeJs
+* ## Unidad 8 MongoDB
+* ## Unidad 9
 
 
 <!--
