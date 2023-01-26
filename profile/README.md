@@ -22,7 +22,24 @@
 * ## Unidad 6 AWS | Pasarelas de pago
   Template React Mercado pago -> [React-mercadopago](https://github.com/silabuzinc/react-mercadopago-example)
 * ## Unidad 7 JavaScript | NodeJs
-* ## Unidad 8 MongoDB
+* ## Unidad 8 MongoDB | 
+   - ### Taller Prisma
+    
+    Taller Prisma  --> [Express - Prisma ](https://github.com/silabuzinc/Prisma-Express-TS)
+  
+  Taller de Socket: [Chat with Pusher](https://github.com/silabuzinc/chat).
+  
+  Servidor para el chat [Express](https://github.com/linder3hs/chat-back).
+  
+    - ### Taller Deploy
+  
+  Deploy [Vercel]().
+  
+  Deploy [Cloudflare]().
+  
+  Deploy [Netlify]().
+
+  - ### Taller [Pokedex](https://github.com/silabuzinc/Pokedex).
 * ## Unidad 9
 
 
